@@ -1,4 +1,4 @@
-package pl.degath.adapters;
+ gradelpackage pl.degath.adapters;
 
 import jakarta.inject.Singleton;
 import pl.degath.studentssorter.Student;

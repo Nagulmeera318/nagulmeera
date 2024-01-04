@@ -5,7 +5,6 @@ import pl.degath.studentssorter.Student;
 import pl.degath.studentssorter.port.StudentSorter;
 
 import java.util.List;
-
 /**
  * generated via chat openai
  */
